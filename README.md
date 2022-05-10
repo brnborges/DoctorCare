@@ -20,7 +20,7 @@ I'm a full stack developer with a great passion for web development!
 
 
 <h1 align="center">
-  <img alt="DoctorCare" src="Logo.svg" height="200px" widht="200px">
+  <img alt="DoctorCare" src="Logo.svg" height="50px" widht="50px">
 </h1>
 
 <strong>
@@ -38,7 +38,7 @@ I'm a full stack developer with a great passion for web development!
 <br>
 
 <p align="center">
-    <img alt="prototype" src="assetsReadme/prototype" height="350px" />
+    <img alt="prototype" src="assetsReadme/prototype.png" height="350px" />
 </p>
 
 ## :bookmark: About
