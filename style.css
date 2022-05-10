@@ -322,7 +322,7 @@ body.menu-expanded button path {
 }
 
 #home img {
-  width: 26.4rem;
+  width: 20.4rem;
   display: block;
   margin-inline: auto;
   object-position: 0 2rem;
@@ -675,7 +675,7 @@ footer .social-links {
   }
 
   #home img {
-    width: 42rem;
+    width: 35rem;
   }
 
   /*=== SERVICES =================================*/
