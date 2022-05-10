@@ -17,13 +17,15 @@ I'm a full stack developer with a great passion for web development!
 
 
 
-
+<br>
+<br>
 
 <h1 align="center">
   <img alt="DoctorCare" src="Logo.svg" height="50px" widht="50px">
 </h1>
 
 <strong>
+<br>
 <br>
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -43,7 +45,7 @@ I'm a full stack developer with a great passion for web development!
 
 ## :bookmark: About
 
-**HouseFinder** is a tool that aims to assist in finding vacancies in properties with a simple but modern and sophisticated usability.
+**DoctorCare** It is a tool to streamline consultation processes and assist patients in an organized and practical way.
 
 <br>
 
