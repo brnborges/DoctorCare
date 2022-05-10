@@ -24,8 +24,10 @@ I'm a full stack developer with a great passion for web development!
   <img alt="DoctorCare" src="Logo.svg" height="50px" widht="50px">
 </h1>
 
-<strong>
 <br>
+<br>
+<strong>
+  
 <br>
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
