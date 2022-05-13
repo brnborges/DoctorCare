@@ -42,9 +42,10 @@ I'm a full stack developer with a great passion for web development and building
 
 ## :bookmark: About
 
-**[Link Deploy](https://webdoctorcare.vercel.app)**
-
 **DoctorCare** It is a tool to streamline consultation processes and assist patients in an organized and practical way.
+<br>
+
+:computer: - **[Link Deploy](https://webdoctorcare.vercel.app)**
 
 <br>
 
